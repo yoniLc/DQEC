@@ -1,6 +1,6 @@
 # Deep Quantum Error Correction
 
-Implementation of the Deep Quantum Error Correction paper.
+Implementation of the [Deep Quantum Error Correction paper (AAAI 2024)](https://arxiv.org/abs/2301.11930).
 
 ## Abstract
 
