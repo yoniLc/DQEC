@@ -1,5 +1,6 @@
 """
-Implementation of "Deep Quantum Error Correction" (DQEC)
+Implementation of "Deep Quantum Error Correction" (DQEC), AAAI24
+@author: Yoni Choukroun, choukroun.yoni@gmail.com
 """
 from __future__ import print_function
 import argparse
